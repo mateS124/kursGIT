@@ -1,1 +1,4 @@
 Plik został zmieniony.
+
+Nowa funkcjonalność!!
+
