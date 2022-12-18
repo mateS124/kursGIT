@@ -3,3 +3,5 @@ Plik został zmieniony i poraz kolejny
 Ale po co , żeby testa zrobic.
 
 i teraz zobaczyć czy mamy błędy.
+
+dalsza zmiana
