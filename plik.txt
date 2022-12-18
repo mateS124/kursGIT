@@ -1,7 +1,4 @@
-Plik został zmieniony i poraz kolejny
+ Szybki fix tego pliku               
+ i po sprawie.
 
-Ale po co , żeby testa zrobic.
 
-i teraz zobaczyć czy mamy błędy.
-
-dalsza zmiana
